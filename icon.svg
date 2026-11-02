@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Taller mecánico">
+  <rect width="512" height="512" rx="112" fill="#141414"/>
+  <rect x="36" y="36" width="440" height="440" rx="88" fill="none" stroke="#2f2f2f" stroke-width="2"/>
+  <path d="M256 82 402 166v180L256 430 110 346V166L256 82Z" fill="#f5a524"/>
+  <path d="M256 132 360 192v128L256 380 152 320V192L256 132Z" fill="#1b1b1b"/>
+  <circle cx="256" cy="256" r="62" fill="#f5a524"/>
+  <circle cx="256" cy="256" r="30" fill="#141414"/>
+</svg>

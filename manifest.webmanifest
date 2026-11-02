@@ -1,0 +1,19 @@
+{
+  "name": "Taller de Ramiro",
+  "short_name": "Taller",
+  "description": "Control de coches para talleres mecánicos pequeños: alta rápida, estados y cotizaciones aprobables por el cliente.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#151515",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
